@@ -1,6 +1,6 @@
 # TechChallenge Fase1 - Grupo41
 
-LINK VÍDEO: 
+LINK VÍDEO: https://www.youtube.com/watch?v=phuK3NX7pdg
 
 ## INTEGRANTES DO GRUPO 41
 
